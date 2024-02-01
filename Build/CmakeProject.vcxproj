@@ -302,6 +302,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C:\c++\CMakeProject\main.cpp" />
+    <ClInclude Include="C:\c++\CMakeProject\testheader.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\c++\CMakeProject\Build\ZERO_CHECK.vcxproj">
