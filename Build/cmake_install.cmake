@@ -59,7 +59,7 @@ endif()
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/src" TYPE FILE FILES
     "C:/c++/CMakeProject/main.cpp"
-    "C:/c++/CMakeProject/myheader.h"
+    "C:/c++/CMakeProject/testheader.h"
     )
 endif()
 

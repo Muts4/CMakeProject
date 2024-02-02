@@ -17,13 +17,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 9,
+				"line" : 12,
 				"parent" : 0
 			},
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 11,
+				"line" : 13,
 				"parent" : 0
 			}
 		]
@@ -60,7 +60,7 @@
 			"paths" : 
 			[
 				"main.cpp",
-				"myheader.h"
+				"testheader.h"
 			],
 			"type" : "file"
 		}

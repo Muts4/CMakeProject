@@ -4,19 +4,14 @@
     <ClCompile Include="C:\c++\CMakeProject\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="C:\c++\CMakeProject\testheader.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="C:\c++\CMakeProject\testheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\c++\CMakeProject\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{B49FE36E-9ABD-3F1F-A753-FB462D0DECFB}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files">
       <UniqueIdentifier>{9448AAAB-DBF3-308A-AB51-6D30D7ACA4B7}</UniqueIdentifier>
     </Filter>

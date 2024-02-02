@@ -1,20 +1,7 @@
-// myheader.h
-#include <iostream>
+// testheader.h
+#ifndef TESTHEADER_H
+#define TESTHEADER_H
 
-#ifndef MYCLASS_H
-#define MYCLASS_H
+int add(int x, int y);
 
-class MyClass {
-public:
-    // Constructor
-    MyClass();
-
-    // Member function
-    void printMessage();
-    
-private:
-    // Member variable
-    int myNumber;
-};
-
-#endif  // MYCLASS_H
+#endif
